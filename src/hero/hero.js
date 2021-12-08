@@ -2,7 +2,7 @@ import React from 'react';
 import { StaticQuery, graphql } from 'gatsby';
 import Form from '../common/forms/signup.js';
 
-const gradient = "linear-gradient(to top, #f4f4f4, #536dfe, #4257cb)";
+const gradient = "linear-gradient(to top, #000000, #222222)";
 
 export default () => (
   <StaticQuery
